@@ -1,31 +1,13 @@
 # EMBLEM-NLP
 
-~~~txt
->Q0OOZmmw:      "Lqpdbbkh)
-]&888%%%@!.     :a%%%%%%Br
-[888%%%%%@!.    ;oBBBB%%%Br
->/||||||/f^...  ^(()1{{{1!.
-     .'^l~_>  `
-  "}cm*%BB%%p.lM#wz}^...
-.[0&%88888%p.I*%%%%&C>.
-<q%8888&W888p ;k&8%%%%%u'
-+#888MWQ(~L&88p 'i?za88%%Bz.
-"p8&&8W[.  O&&&p   '}b8888Bl.
-_o&&&8L    Z&&&p    `Q8888%{.
-<kWW&&k"   m&&&q.. ik8888%~.
-.zo#W&&8k(,mWW&q..ix*88&&8L.
-,YUoWWWW&&8h*WWW#Qq#8&&MX".
- `{LaMWWWWWWWWWWWWWWaJ+.
-   `<|Uwkh*MMMMM*kmz};.
-     ."I>_[{{}] +l,'
-~~~
-
-**Platform:** GitHub · Cloudflare · iPhone-first  
-**Focus:** Agent systems · skills · AV tooling  
-**Stack:** TypeScript · GitHub Actions · MCP · Python  
-**Repos:** Public catalog · private workspaces  
-**Access:** Request form · credentialed links  
-**Status:** Building EMBLEM-NLP infrastructure
+```text
+███████╗███╗   ███╗██████╗ ██╗     ███████╗███╗   ███╗        ███╗   ██╗██╗     ██████╗
+██╔════╝████╗ ████║██╔══██╗██║     ██╔════╝████╗ ████║        ████╗  ██║██║     ██╔══██╗
+█████╗  ██╔████╔██║██████╔╝██║     █████╗  ██╔████╔██║█████╗  ██╔██╗ ██║██║     ██████╔╝
+██╔══╝  ██║╚██╔╝██║██╔══██╗██║     ██╔══╝  ██║╚██╔╝██║╚════╝  ██║╚██╗██║██║     ██╔═══╝
+███████╗██║ ╚═╝ ██║██████╔╝███████╗███████╗██║ ╚═╝ ██║        ██║ ╚████║███████╗██║
+╚══════╝╚═╝     ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝        ╚═╝  ╚═══╝╚══════╝╚═╝
+```
 
 EMBLEM-NLP is the public entrypoint for Emblem Projects Inc. agent infrastructure, repository catalogs, AV and venue systems, document tooling, and applied AI workflows.
 
