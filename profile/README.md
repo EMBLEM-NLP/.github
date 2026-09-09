@@ -20,7 +20,7 @@ Please keep requests non-confidential. Do not include passwords, secrets, client
 | Skills catalog | Agent Skills, Emblem NLP consumer specs, validation rules, and skill packaging | Private / selective public |
 | AV and venue systems | Lighting, video, media server, venue documentation, show-control tooling | Private |
 | Data and document tooling | PDF, transcript, diagram, web, and dataset extraction workflows | Private |
-| Client and regulated work | Client documents, pharmacy/SOP research, permit workflows, and compliance-sensitive material | Private |
+| Client and regulated work | Client documents, permit workflows, research notes, and compliance-sensitive material | Private |
 | Public releases | Open-source forks, demos, public docs, and intentionally published packages | Public |
 
 ## Public Policy
