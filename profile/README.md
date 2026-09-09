@@ -10,18 +10,18 @@ Request access here:
 
 [Request repository access](https://github.com/EMBLEM-NLP/.github/issues/new?template=access-request.yml)
 
-Please keep requests non-confidential. Do not include passwords, secrets, client files, private project details, or regulated information in a public issue.
+Please keep requests non-confidential. Do not include passwords, secrets, client files, private project details, or controlled information in a public issue.
 
 ## Repository Catalog
 
-| Category | Scope | Access |
+| Category | Pointer README | Scope |
 |---|---|---|
-| Agent infrastructure | MCP servers, orchestration tools, agent runtime support, repository automation | Private |
-| Skills catalog | Agent Skills, Emblem NLP consumer specs, validation rules, and skill packaging | Private / selective public |
-| AV and venue systems | Lighting, video, media server, venue documentation, show-control tooling | Private |
-| Data and document tooling | PDF, transcript, diagram, web, and dataset extraction workflows | Private |
-| Client and regulated work | Client documents, permit workflows, research notes, and compliance-sensitive material | Private |
-| Public releases | Open-source forks, demos, public docs, and intentionally published packages | Public |
+| Agent infrastructure | [agent-infrastructure.md](https://github.com/EMBLEM-NLP/.github/blob/main/catalog/agent-infrastructure.md) | MCP servers, orchestration tools, agent runtime support, repository automation |
+| Skills catalog | [skills-catalog.md](https://github.com/EMBLEM-NLP/.github/blob/main/catalog/skills-catalog.md) | Agent Skills, Emblem NLP consumer specs, validation rules, and skill packaging |
+| AV and venue systems | [av-venue-systems.md](https://github.com/EMBLEM-NLP/.github/blob/main/catalog/av-venue-systems.md) | Lighting, video, media server, venue documentation, and show-control tooling |
+| Data and document tooling | [data-document-tools.md](https://github.com/EMBLEM-NLP/.github/blob/main/catalog/data-document-tools.md) | PDF, transcript, diagram, web, and dataset extraction workflows |
+| Client work | [client-work.md](https://github.com/EMBLEM-NLP/.github/blob/main/catalog/client-work.md) | Confidential project work and controlled deliverables |
+| Public releases | [public-releases.md](https://github.com/EMBLEM-NLP/.github/blob/main/catalog/public-releases.md) | Open-source forks, demos, public docs, and intentionally published packages |
 
 ## Public Policy
 
