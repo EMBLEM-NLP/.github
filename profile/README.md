@@ -1,5 +1,25 @@
 # EMBLEM-NLP
 
+```txt
+        >Q0OOZmmw:      "Lqpdbbkh)      ███████╗███╗   ███╗██████╗ ██╗     ███████╗███╗   ███╗
+        ]&888%%%@!.     :a%%%%%%Br      ██╔════╝████╗ ████║██╔══██╗██║     ██╔════╝████╗ ████║
+        [888%%%%%@!.    ;oBBBB%%%Br     █████╗  ██╔████╔██║██████╔╝██║     █████╗  ██╔████╔██║
+        >/||||||/f^...  ^(()1{{{1!.     ██╔══╝  ██║╚██╔╝██║██╔══██╗██║     ██╔══╝  ██║╚██╔╝██║
+             .'^l~_>  `                 ███████╗██║ ╚═╝ ██║██████╔╝███████╗███████╗██║ ╚═╝ ██║
+          "}cm*%BB%%p.lM#wz}^...        ╚══════╝╚═╝     ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝
+       .[0&%88888%p.I*%%%%&C>.
+    ..<q%8888&W888p ;k&8%%%%%u'                         EMBLEM-NLP
+     +#888MWQ(~L&88p 'i?za88%%Bz.
+    "p8&&8W[.  O&&&p   '}b8888Bl.        Platform: GitHub · Cloudflare · iPhone-first
+    _o&&&8L    Z&&&p    `Q8888%{.        Focus:    Agent systems · skills · AV tooling
+    <kWW&&k"   m&&&q.. ik8888%~.         Stack:    TypeScript · Actions · MCP · Python
+    .zo#W&&8k(,mWW&q..ix*88&&8L.         Repos:    Public catalog · private workspaces
+     ,YUoWWWW&&8h*WWW#Qq#8&&MX".         Access:   Request form · credentialed links
+      `{LaMWWWWWWWWWWWWWWaJ+.            Status:   Building EMBLEM-NLP infrastructure
+        `<|Uwkh*MMMMM*kmz};.
+          ."I>_[{{}] +l,' 
+```
+
 EMBLEM-NLP is the public entrypoint for Emblem Projects Inc. agent infrastructure, repository catalogs, AV and venue systems, document tooling, and applied AI workflows.
 
 Most repositories in this organization are private. Public catalog links may show a GitHub 404 or login wall unless your GitHub account has been granted access.
