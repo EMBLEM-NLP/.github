@@ -1,0 +1,77 @@
+name: Repository Access Request
+description: Request access to a private EMBLEM-NLP repository or repository category.
+title: "Access request: <repo or category>"
+labels:
+  - access-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request access to a private EMBLEM-NLP repository or category.
+
+        Do not include passwords, secrets, client files, private project details, or regulated information in this public issue.
+
+  - type: input
+    id: github_username
+    attributes:
+      label: GitHub username
+      description: The GitHub account that needs access.
+      placeholder: thisis-romar
+    validations:
+      required: true
+
+  - type: dropdown
+    id: access_area
+    attributes:
+      label: Requested area
+      description: Choose the closest repository category.
+      options:
+        - Agent infrastructure
+        - Skills catalog
+        - AV and venue systems
+        - Data and document tooling
+        - Client and regulated work
+        - Public releases
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: repository
+    attributes:
+      label: Specific repository, if known
+      description: Use owner/name format when possible.
+      placeholder: EMBLEM-NLP/repository-name
+    validations:
+      required: false
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for access
+      description: Keep this non-confidential. Explain your role, project, and why access is needed.
+      placeholder: I need access for...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: access_duration
+    attributes:
+      label: Expected access duration
+      options:
+        - One-time review
+        - Short-term project access
+        - Ongoing collaborator access
+        - Not sure
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: I understand private repository access is reviewed manually.
+          required: true
+        - label: I have not included secrets, client files, private project details, or regulated information in this public issue.
+          required: true
