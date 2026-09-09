@@ -9,7 +9,7 @@ body:
       value: |
         Use this form to request access to a private EMBLEM-NLP repository or category.
 
-        Do not include passwords, secrets, client files, private project details, or regulated information in this public issue.
+        Do not include passwords, secrets, client files, private project details, or controlled information in this public issue.
 
   - type: input
     id: github_username
@@ -30,7 +30,7 @@ body:
         - Skills catalog
         - AV and venue systems
         - Data and document tooling
-        - Client and regulated work
+        - Client work
         - Public releases
         - Other
     validations:
@@ -73,5 +73,5 @@ body:
       options:
         - label: I understand private repository access is reviewed manually.
           required: true
-        - label: I have not included secrets, client files, private project details, or regulated information in this public issue.
+        - label: I have not included secrets, client files, private project details, or controlled information in this public issue.
           required: true
